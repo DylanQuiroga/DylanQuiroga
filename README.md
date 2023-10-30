@@ -3,7 +3,7 @@
 - 🛠 I am currently working on my portfolio and resume
 - 🌴 I am currently perfecting my craft
 - 🤝 I am looking to collaborate on any open source project
-- 📧 How to reach me: txhakli@gmail.com
+- 📧 How to reach me: dylanquiroga14@gmail.com
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
@@ -24,18 +24,18 @@
 
 ## ⚙️ GitHub Stats ⚙️
 
-<a href="https://github.com/taulantxhakli/taulantxhakli">
+<a href="https://github.com/DylanQuiroga/DylanQuiroga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taulantxhakli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/taulantxhakli/taulantxhakli">
+<a href="https://github.com/DylanQuiroga/DylanQuiroga">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taulantxhakli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
 </a>
 
-<a href="https://github.com/taulantxhakli/Discrimination">
+<a href="https://github.com/DylanQuiroga/Discrimination">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=Discrimination&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/taulantxhakli/taulantxhakli.github.io">
+<a href="https://github.com/DylanQuiroga/DylanQuiroga.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=taulantxhakli.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>  
