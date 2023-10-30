@@ -1,23 +1,16 @@
-<h1 align="center">Hi, I'm DylanQuiroga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hola, soy Dylan Quiroga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chakravarthi-v/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
-  <a href="https://twitter.com/ChakriVV">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/___chakri_/">
+  <a href="https://www.instagram.com/_.dicklan._/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:chakravarthiviswanath@gmail.com">
+  <a href="mailto:dylanquiroga14@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/DylanQuiroga">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
+<h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena</h3>
 
 <br>
 
