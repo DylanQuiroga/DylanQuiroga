@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Dylan Quiroga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+<p align="center">
   <a href="https://www.instagram.com/_.dicklan._/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
