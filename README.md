@@ -6,9 +6,6 @@
   <a href="mailto:dylanquiroga14@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/DylanQuiroga">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
 </p>
 <h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena</h3>
 
