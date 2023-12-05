@@ -10,7 +10,7 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/discord_macos_bigsur_icon_190238.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena</h3>
+<h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena, Chile</h3>
 
 <br>
 
