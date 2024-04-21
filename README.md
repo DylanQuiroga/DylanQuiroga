@@ -19,6 +19,6 @@
   <a href="https://github.com/DylanQuiroga">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/DylanQuiroga">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanQuiroga&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="DylanQuiroga github stats" height="220px" />
   </a>
