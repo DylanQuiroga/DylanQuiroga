@@ -21,9 +21,10 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/DylanQuiroga">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanQuiroga&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="DylanQuiroga github stats" height="220px"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanQuiroga&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=40" alt="DylanQuiroga github stats" height="220px"/>
       </a>
     </td>
   </tr>
 </table>
+
 
