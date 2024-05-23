@@ -11,8 +11,8 @@
   </a><span>&nbsp;</span>
 </p>
 <h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena, Chile</h3>
-<h4 align="center">Para programar utilizo Python, JAVA y C/C++ (Arduino)</h4>
-<h5 align="center">Para base de datos uso MySQL, PostgreSQL, SQLite y NoSQL (MongoDB)</h5>
+<h3 align="center">Para programar utilizo Python, JAVA y C/C++ (Arduino)</h3>
+<h3 align="center">Para base de datos uso MySQL, PostgreSQL, SQLite y NoSQL (MongoDB)</h3>
 
 <table width="100%">
   <tr>
