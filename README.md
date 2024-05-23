@@ -10,8 +10,8 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/discord_macos_bigsur_icon_190238.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena, Chile</h3>
-<h3 align="center">Para programar utilizo Python, JAVA y C/C++ (Arduino)</h3>
+<h2 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena, Chile</h2>
+<h3 align="center">Para programar utilizo Python, JAVA y C/C++ para Arduino</h3>
 <h3 align="center">Para base de datos uso MySQL, PostgreSQL, SQLite y NoSQL (MongoDB)</h3>
 
 <table width="100%">
