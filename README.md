@@ -11,7 +11,7 @@
   </a><span>&nbsp;</span>
 </p>
 <h2 align="center">Soy estudiante de Ingenieria en Computación de la Universidad de La Serena, Chile</h2>
-<h3 align="center">Para programar utilizo Python, JAVA y C/C++ para Arduino</h3>
+<h3 align="center">Para programar utilizo Python, JAVA y C/C++ en Arduino</h3>
 <h3 align="center">Para base de datos uso MySQL, PostgreSQL, SQLite y NoSQL (MongoDB)</h3>
 
 <table width="100%">
