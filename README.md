@@ -14,19 +14,9 @@
 <h3 align="center">Para programar utilizo Python, JAVA y C/C++ en Arduino</h3>
 <h3 align="center">Para base de datos uso MySQL, PostgreSQL, SQLite y NoSQL (MongoDB)</h3>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/DylanQuiroga">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyternotebook&theme=dark&hide_langs_below=5" height="220px"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/DylanQuiroga">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanQuiroga&count_private=false&hide=stars&show_icons=true&theme=dark&line_height=40" alt="DylanQuiroga github stats" height="220px"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://github.com/DylanQuiroga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyternotebook&theme=dark&hide_langs_below=5" height="350px"/>
+  </a>
+</p>
 
