@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/DylanQuiroga">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=5" height="220px"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyternotebook&theme=dark&hide_langs_below=5" height="220px"/>
       </a>
     </td>
     <td align="center" width="50%">
