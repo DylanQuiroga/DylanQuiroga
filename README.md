@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://matias.me/nsfw/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyternotebook&theme=dark&hide_langs_below=30" height="350px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&hide=ASP.NET,jupyternotebook&theme=dark&hide_langs_below=35" height="350px"/>
   </a>
 </p>
 
