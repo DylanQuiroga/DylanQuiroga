@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://matias.me/nsfw/">
-  <img align="center" src="" height="350px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanQuiroga&size_weight=0.5&count_weight=0.5" height="350px"/>
   </a>
 </p>
 
